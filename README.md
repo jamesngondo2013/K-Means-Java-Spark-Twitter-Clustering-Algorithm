@@ -1,1 +1,2 @@
-# K-Means-Java-Spark-Twitter-Clustering-Algorithm
+# K-Means Clustering Algorithm
+## Java-Apache Spark Twitter Clustering
